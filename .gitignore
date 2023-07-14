@@ -1,0 +1,20 @@
+# .gitignore
+
+# Ignore code workspace files
+chatgpt-bot.code-workspace
+
+# Ignore token files
+tokens.txt
+
+# Ignore .DS_Store
+.DS_Store
+
+
+users.db
+logs.log
+database2_old/
+database.db
+testmj.py
+test.py
+channels.txt
+env/
